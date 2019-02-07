@@ -7,7 +7,7 @@
     	<artifactId>junit</artifactId>
     	<version>4.12</version>
     	<scope>test</scope>
-    </dependency>
+      </dependency>
     
 - [X] created a class named *ConsLetters* for main logic
 - [x] created a class named *TestConsLetters* for testing the logic made above (using annotations)
